@@ -1,0 +1,19 @@
+/annotations/*
+/correletion/*
+/features/*
+/images/*
+/proposals/*
+/text_embed/*
+!*.gitkeep
+
+# IDE目录
+/.vscode
+
+# python pycache
+*.pyc
+**/__pycache__
+
+# 其他目录 & 文件
+/*.pkl
+/tools/**/*.npy
+/tools/**/*.pkl

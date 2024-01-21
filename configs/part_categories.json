@@ -1,0 +1,69 @@
+[
+    {
+        "supercategory": "person",
+        "id": 1,
+        "name": "person",
+        "keypoints": [
+            "right_foot",
+            "right_leg",
+            "left_leg",
+            "left_foot",
+            "hip",
+            "head",
+            "right_hand",
+            "right_arm",
+            "left_arm",
+            "left_hand"
+        ],
+        "part2pose_list": [
+            [16],
+            [14],
+            [13],
+            [15],
+            [11, 12],
+            [0, 1, 2, 3, 4],
+            [10],
+            [8],
+            [7],
+            [9]
+        ],
+        "skeleton": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                5
+            ],
+            [
+                4,
+                3
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                7,
+                8
+            ],
+            [
+                8,
+                6
+            ],
+            [
+                10,
+                9
+            ],
+            [
+                9,
+                6
+            ],
+            [
+                5,
+                6
+            ]
+        ]
+    }
+]
