@@ -13,6 +13,12 @@
 *.pyc
 **/__pycache__
 
+# 压缩包
+*.zip
+*.gz
+*.tgz
+*.tar
+
 # 其他目录 & 文件
 /*.pkl
 /tools/**/*.npy

@@ -155,5 +155,6 @@ box标注非常主观，同一对human-object若存在多种interaction，极有
 ![钟表](.assets/钟表.jpg)
 
 # 引用
-[Learning to Detect Human-Object Interactions](http://arxiv.org/abs/1702.05448)
-[http://www-personal.umich.edu/~ywchao/hico/](http://www-personal.umich.edu/~ywchao/hico/)
+论文: [Learning to Detect Human-Object Interactions](http://arxiv.org/abs/1702.05448)
+
+数据源: [http://www-personal.umich.edu/~ywchao/hico/](http://www-personal.umich.edu/~ywchao/hico/)
