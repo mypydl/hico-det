@@ -1,4 +1,5 @@
-/box_merge/*
-/old/*
-/size/*
-/subset/*
+/box_merge
+/old
+/size
+/subset
+/graph

@@ -1,6 +1,7 @@
 /annotations/*
 /correletion/*
 /features/*
+/graphs
 /images/*
 /proposals/*
 /text_embed/*
